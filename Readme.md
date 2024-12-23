@@ -19,3 +19,5 @@ Press Escape or click the X to close
 Hover over images to see titles
 
 The gallery uses sample images from Pinterest - replace them with your own images by updating the sampleImages array in App.tsx.
+
+
